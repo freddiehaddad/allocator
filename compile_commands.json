@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "D:\\Projects\\git\\queue",
+    "command": "cl /Zi /EHsc /std:c++20 /Fe:allocfull allocfull.cpp",
+    "file": "allocfull.cpp"
+  },
+  {
+    "directory": "D:\\Projects\\git\\queue",
+    "command": "cl /Zi /EHsc /std:c++20 /Fe:allocfree allocfree.cpp",
+    "file": "allocfree.cpp"
+  }
+]
